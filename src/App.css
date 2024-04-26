@@ -431,6 +431,13 @@ button {
 	flex-direction: column;
 	gap: 8px;
 	padding: 8px;
+	overflow: hidden;
+	/* height: 100dvh; */
+	width: 100dvw;
+}
+
+label {
+	cursor: pointer;
 }
 
 .App input {
@@ -438,12 +445,14 @@ button {
 	border-radius: 8px;
 	border: 1px solid #d8dae5;
 	width: 100%;
+	font-size: 16px;
+	cursor: auto;
 }
 
 .App p {
 	margin-top: 4px;
 	width: 100%;
-	font-size: 20px;
+	font-size: 16px;
 }
 
 /* CSS */
