@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/check-rate-bet/static/css/main.3b0f54ca.css",
-    "main.js": "/check-rate-bet/static/js/main.9e99ff5a.js",
+    "main.js": "/check-rate-bet/static/js/main.071c2d6f.js",
     "static/js/787.50227f07.chunk.js": "/check-rate-bet/static/js/787.50227f07.chunk.js",
     "index.html": "/check-rate-bet/index.html",
     "main.3b0f54ca.css.map": "/check-rate-bet/static/css/main.3b0f54ca.css.map",
-    "main.9e99ff5a.js.map": "/check-rate-bet/static/js/main.9e99ff5a.js.map",
+    "main.071c2d6f.js.map": "/check-rate-bet/static/js/main.071c2d6f.js.map",
     "787.50227f07.chunk.js.map": "/check-rate-bet/static/js/787.50227f07.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b0f54ca.css",
-    "static/js/main.9e99ff5a.js"
+    "static/js/main.071c2d6f.js"
   ]
 }
